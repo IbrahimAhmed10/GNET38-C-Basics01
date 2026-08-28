@@ -24,6 +24,24 @@
 
             //q3
             //int pages = 464; //compile-time error
+
+            //q4
+            //try
+            //{
+            //    int a = 10;
+            //    int b = 0;
+            //    int result = a / b;
+
+            //    Console.WriteLine(result);
+            //}
+            //catch
+            //{
+            //    Console.WriteLine("cannot divide  by zero ");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("done");
+            //}
         }
     }
 }
