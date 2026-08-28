@@ -81,6 +81,15 @@
             //string pagesAsstring = pages.ToString();
             //Console.WriteLine(pagesAsstring);
             //Console.WriteLine(pagesAsstring.GetType());
+
+            //q10
+            //int copies = 100;
+            //object boxedCopies = copies;
+
+            //int unboxedCopies = (int)boxedCopies;
+
+            //Console.WriteLine(boxedCopies);
+            //Console.WriteLine(unboxedCopies);
         }
     }
 }
