@@ -14,6 +14,13 @@
             //object bookObject = myBook; //declaration of obj type
 
             //Console.WriteLine(bookObject);
+
+            //q2
+            //Book myBook = new Book();
+            //Console.WriteLine(myBook.ToString());
+            //Console.WriteLine(myBook.Equals(myBook));
+            //Console.WriteLine(myBook.GetHashCode());
+            //Console.WriteLine(myBook.GetType());
         }
     }
 }
