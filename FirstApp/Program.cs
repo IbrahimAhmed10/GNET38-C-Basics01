@@ -75,6 +75,12 @@
             //    Console.WriteLine("invalid number");
 
             //}
+
+            //q9
+            //int pages = 464;
+            //string pagesAsstring = pages.ToString();
+            //Console.WriteLine(pagesAsstring);
+            //Console.WriteLine(pagesAsstring.GetType());
         }
     }
 }
