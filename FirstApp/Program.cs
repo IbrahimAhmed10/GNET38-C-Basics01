@@ -21,6 +21,9 @@
             //Console.WriteLine(myBook.Equals(myBook));
             //Console.WriteLine(myBook.GetHashCode());
             //Console.WriteLine(myBook.GetType());
+
+            //q3
+            //int pages = 464; //compile-time error
         }
     }
 }
