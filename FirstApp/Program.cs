@@ -57,6 +57,24 @@
             //string pagesText = "464";
             //int pagesNumber = Convert.ToInt32(pagesText);
             //Console.WriteLine(pagesNumber);
+
+
+            //q8
+            //string yearText = "2023";
+            //int year = int.Parse(yearText);
+            //Console.WriteLine(year);
+
+            //string badText = "abc";
+            //bool success = int.TryParse(badText, out int badNumber);
+            //if (success)
+            //{
+            //    Console.WriteLine(badNumber);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("invalid number");
+
+            //}
         }
     }
 }
