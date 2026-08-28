@@ -42,6 +42,11 @@
             //{
             //    Console.WriteLine("done");
             //}
+
+            //q5
+            //int pages = 300;
+            //double pagesAsDouble = pages;
+            //Console.WriteLine(pagesAsDouble);
         }
     }
 }
