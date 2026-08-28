@@ -47,6 +47,11 @@
             //int pages = 300;
             //double pagesAsDouble = pages;
             //Console.WriteLine(pagesAsDouble);
+
+            //q6
+            //double price = 49.99;
+            //int priceAsint = (int)price;  //cast truncation */
+            //Console.WriteLine(priceAsint);
         }
     }
 }
